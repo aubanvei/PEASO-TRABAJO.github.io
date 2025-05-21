@@ -15,17 +15,15 @@ Estilo/género: Juego
 Logotipo : ![LOGOTIPO](https://github.com/user-attachments/assets/4c0f9a56-e3b4-42d7-ba2c-d8150d911233)
 
 
-(insertar imágenes a resolucion de 100px alto)
-
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
 Probado en: MS Edge
 
 Tamaño proyecto: 24.2KB
 
-Fecha : 14/05/2025
+Fecha : 21/05/2025
 
-Medios (donde se tiene presencia relacionada):
+Medios:
 
 Github: aubanvei
 
@@ -63,7 +61,8 @@ Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new techn
 Recursos y materiales audiovisuales:
 
 **Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![2](https://github.com/user-attachments/assets/599e7a9f-c9c2-4e8f-9389-ef91d06786d0)
+
 
 https://creativecommons.org/licenses/?lang=es
 
