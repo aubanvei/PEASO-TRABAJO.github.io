@@ -12,24 +12,22 @@ Resumen : Este proyecto busca el entretenimiento a través de un videojuego.
 
 Estilo/género: Juego
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Logotipo : ![LOGOTIPO](https://github.com/user-attachments/assets/4c0f9a56-e3b4-42d7-ba2c-d8150d911233).md
+
 
 (insertar imágenes a resolucion de 100px alto)
 
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: MS Edge
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 24.2KB
 
 Fecha : 14/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Github: aubanvei
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
