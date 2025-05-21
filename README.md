@@ -1,16 +1,16 @@
-# (Nombre del proyecto)
+# (SUICIDIO COLECTIVO 2000)
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : Suicidio Colectivo 2000
 
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
+Autor: Áurea María Bancalero Veiga
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto busca el entretenimiento a través de un videojuego.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: Juego
 
 Logotipo : (insertar imagen y breve justificación, si tiene)
 
