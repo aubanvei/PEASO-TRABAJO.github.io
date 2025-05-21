@@ -12,7 +12,7 @@ Resumen : Este proyecto busca el entretenimiento a través de un videojuego.
 
 Estilo/género: Juego
 
-Logotipo : ![LOGOTIPO](https://github.com/user-attachments/assets/4c0f9a56-e3b4-42d7-ba2c-d8150d911233).md
+Logotipo : ![LOGOTIPO](https://github.com/user-attachments/assets/4c0f9a56-e3b4-42d7-ba2c-d8150d911233)
 
 
 (insertar imágenes a resolucion de 100px alto)
