@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : Suicidio Colectivo 2000
 
-Web: (url github.io)
+Web: [(url github.io)](https://aubanvei.github.io/PEASO-TRABAJO.github.io/)
 
 Autor: Áurea María Bancalero Veiga
 
